@@ -1,0 +1,10 @@
+Report.pdf
+*.pptx
+Paper1/data/
+Paper1/mdfend-model/
+Paper1/ppt.ipynb
+Paper1/src/google-cloud-sdk/
+Paper1/src/gen-lang-client-0539303742-0d4b2719f5ec.json
+Paper2/Code/ref2-models
+Paper2/ModifiedDataset
+Paper2/OldDataset
