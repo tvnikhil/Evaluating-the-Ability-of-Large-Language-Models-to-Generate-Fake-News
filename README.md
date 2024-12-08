@@ -1,6 +1,6 @@
 # Project
 
-Datasets and models should be setup using the resources of the author's of the papers provided in "Reference Papers Given" directory. Paper1 used M3FEND and MDFEND and Paper2 uses Multi modal approach (#2 Multi modal). The code for all these things is avaible in github.
+Datasets and models should be set up using the resources of the authors of the papers provided in the "Reference Papers Given" directory. Paper 1 used M3FEND and MDFEND, and Paper 2 uses a multimodal approach (#2 multimodal). The code for all these things is available on GitHub.
 
 ## For Paper 1
 
