@@ -1,5 +1,7 @@
 # Project
 
+Datasets and models should be setup using the resources of the author's of the papers provided in "Reference Papers Given" directory. Paper1 used M3FEND and MDFEND and Paper2 uses Multi modal approach (#2 Multi modal). The code for all these things is avaible in github.
+
 ## For Paper 1
 
 Follow this for paper 1
@@ -88,4 +90,5 @@ Outputs for everything is in Outputs directory.
 It is in Code/llm-modifications directory.
 
 ## Each cell (in every notebook file) can be run with all the requirements installed similar to paper 1
+
 # Evaluating-the-performance-of-LLMs-with-existing-fake-news-detection-models
